@@ -10,17 +10,29 @@ Proyek ini dirancang untuk mengenali karakter pada plat nomor kendaraan dengan m
 # 1. Membuat Folder
 indonesian-license-plate-dataset/
 │
+
 ├── test/
+
 │   ├── test001_1.jpg
+
 │   ├── test001_1.txt
+
 │   └── test002_1.jpg
+
 │
+
 ├── generate_ground_truth.csv/
+
 │
+
 ├── prediction.csv/
+
 │   
+
 │
+
 ├── ground_Truth.csv   (data gambar hasil gabungan)
+
 └── prediction_results.csv    (hasil prediksi dan nilai CER)
 
 
