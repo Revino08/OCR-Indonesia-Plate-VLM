@@ -33,12 +33,18 @@ indonesian-license-plate-dataset/
 Jalankan generate_ground_truth_csv.py untuk membuat file ground_truth.csv kedalam file .txt. Hasil akan disimpan sebagai "ground_truth.csv", pastikan file yang dibuat masuk kedalam test.
 Sebagai contoh ground_truth.csv:
 
+
 <img width="302" height="314" alt="image" src="https://github.com/user-attachments/assets/ab8f72af-8957-4c89-8b45-009ee40e68cb" />
+
+
 
 Selanjutnya membuat program prediction dan beri label "predictions.py" lalu running program tersebut di cmd. Program akan melakukan encode gambar ke Base64, mengirim ke LM Studio dan menerima hasil prediksi sekaligus menghitung CER berdasarkan ground truth yang dibuat sebelumnya dan menyimpan ke "prediction_results.csv".
 Sebagai contoh prediction.results.csv:
 
+
 <img width="606" height="568" alt="image" src="https://github.com/user-attachments/assets/2716defd-46a8-4caf-b7c8-347d13b8813a" />
+
+
 
 # 4. Prediksi pada LMStudio
 Pilih power user pada kiri bawah dan masuk kedalam comment dan cobalah lakukan pengujian dari beberapa gambar plat yang telah di prediksi dan masukkan prompt "What is the license plate number shown in this image? Respond only with the plate number."
