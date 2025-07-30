@@ -10,17 +10,29 @@ Proyek ini dirancang untuk mengenali karakter pada plat nomor kendaraan dengan m
 # 1. Membuat Folder
 indonesian-license-plate-dataset/
 │
+
 ├── test/
+
 │   ├── test001_1.jpg
+
 |   ├── test001_1.txt
+
 │   ├── test002_1.jpg
+
 │   └── test002_1.txt
+
 │
+
 ├── Generate_ground_truth.csv/
+
 │
+
 ├── prediction.py/
+
 |
+
 ├── ground_truth.csv/
+
 ├── prediction_results.csv/
 
 # 2. Persiapan dan Kebutuhan
@@ -42,7 +54,7 @@ Selanjutnya membuat program prediction dan beri label "predictions.py" lalu runn
 Sebagai contoh prediction.results.csv:
 
 
-<img width="606" height="568" alt="image" src="https://github.com/user-attachments/assets/2716defd-46a8-4caf-b7c8-347d13b8813a" />
+<img width="302" height="314" alt="image" src="https://github.com/user-attachments/assets/2716defd-46a8-4caf-b7c8-347d13b8813a" />
 
 
 
