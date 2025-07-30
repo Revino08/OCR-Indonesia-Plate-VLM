@@ -13,13 +13,17 @@ indonesian-license-plate-dataset/
 
 ├── test/
 
-|'''''''├── test001_1.jpg
+|
+├── test001_1.jpg
 
-|'''''''├── test001_1.txt
+|
+├── test001_1.txt
 
-│'''''''├── test002_1.jpg
+│
+├── test002_1.jpg
 
-│'''''''├── test002_1.txt
+│
+├── test002_1.txt
 
 │
 
