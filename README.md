@@ -32,5 +32,5 @@ indonesian-license-plate-dataset/
 # 3. Jalankan Program
 Jalankan generate_ground_truth_csv.py untuk membuat file ground_truth.csv kedalam file .txt. Hasil akan disimpan sebagai "ground_truth.csv", apstikan file yang dibuat masuk kedalam test.
 Misal ground_truth.csv:
-  image,ground_truth
+
 <img width="302" height="314" alt="image" src="https://github.com/user-attachments/assets/ab8f72af-8957-4c89-8b45-009ee40e68cb" />
